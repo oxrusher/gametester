@@ -1,4 +1,4 @@
-# tester #
+﻿# tester #
 
 ##tester 是什么？
 一个自动化工具，通过创建多个连接并运行测试框架，你可以轻松模拟项目运营真实环境。
@@ -27,7 +27,7 @@
 
 ```
     author: liuguirong
-    email:hroomkeeper@gmail.com
+    email:oxrusher@gmail.com
     qq: 16839242
     web: oxrush.com
 ```
